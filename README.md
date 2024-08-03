@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ayat
+- 👀 I’m interested in web dev, AI and psychology
+- 🌱 I’m currently learning about data analytics and devaloping my portfolio
+- 📫 How to reach me : via email ayaterrahmaneamari@gmail.com
+- ⚡ Fun fact: gym is like water for me.
